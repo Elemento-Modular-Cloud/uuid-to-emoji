@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
 import json
-
-from lxml import etree, html
+from lxml import html
 import requests
 
 if __name__ == "__main__":
